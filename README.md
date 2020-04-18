@@ -53,8 +53,9 @@ Example:
 
 ## Credits
 
-Inspired on: [Dracula Theme Documentation](https://draculatheme.com/windows-terminal)
+Inspired on: 
+<a href="https://draculatheme.com/windows-terminal" target="_blank">Dracula Theme Documentation</a>
 
-Terminal font: [Cascadia Fonts](https://github.com/microsoft/cascadia-code)
+Terminal font: <a href="https://github.com/microsoft/cascadia-code" target="_blank">Cascadia Fonts</a>
 
-VSCode Theme: [Overnight](https://marketplace.visualstudio.com/items?itemName=cev.overnight)
+VSCode Theme: <a href="https://marketplace.visualstudio.com/items?itemName=cev.overnight" target="_blank">Overnight</a>
